@@ -1,2 +1,2 @@
-adding conflict
-adding conflict 2
+adding conflict 1
+>>>>>>> 15032f75064be44709e7f23c5d7931204d7f02ce
